@@ -1,0 +1,57 @@
+body {
+    background-color: #f0fff6;
+    width: 60%;
+    margin: auto;
+}
+a{
+    opacity: 1;
+}
+a:hover{
+    opacity: 0.5;
+}
+#Disney01{
+    width: 100%;
+}
+#Disney02{
+    width: 100%;
+}
+#Disney03{
+    width: 100%;
+}
+#Disney04{
+    width: 100%;
+}
+#Disney05{
+    width: 100%;
+}
+#title{
+    text-align: center;
+    font-size: 45px;
+}
+hr{
+    border: nonr;
+background-color: #f0fff6;
+border-top: 2px dashed #117f33;
+}
+body{
+    background: linear-gradient(#cef9ff, #f0e68c);
+}
+.myfont{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.greentxt{
+    color: #6a5acd;
+}
+div{
+    background-color: #ffc0cb;
+    padding: 30px 30px;
+    width: 80%;
+    margin: 8px auto;
+    border-radius: 24px;
+    box-shadow: 1px 1px 10px -5px rgba(0.3,0.7,0.4,0.8);
+}
+
+h2{
+    font-size: 20px;
+    text-align: center
+}
